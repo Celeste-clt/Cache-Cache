@@ -91,5 +91,5 @@ squares.forEach((square, index) => {
 
 const button = document.querySelector("#reset");
 button.addEventListener("click", () => {
-  window.location.href = "jeu.html";  
+  window.location.href = "index.html";  
 });
